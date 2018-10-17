@@ -1,0 +1,17 @@
+INFINITY SERVICES
+	ADMIN PANEL DETAILS
+	1) Authentication
+	2) Admin panel
+	3) CRUD Operation
+	4) API's
+	5) Login Page
+	6) Forms
+
+	ANDROID APPLICATION's DETAILS
+	1) User Application
+	2) Worker Application
+	3) Service Crud
+	4) Timers
+	5) Maps
+
+	
